@@ -28,6 +28,3 @@ create_agent(task="Test checkout for logic flaws",
 
 The `skills/` files reuse the native class names (`idor`, `race-conditions`, …); drop one into a Strix `skills/<category>/` directory to override the built-in with this richer version, or keep the `-exploitation` name to load both.
 
-## Scope
-
-For **authorized, in-scope** targets only. Every skill mandates minimal, reversible, non-destructive proofs of concept, respects rate limits / test windows / out-of-scope lists, and redacts tokens, credentials, and PII. Write/money/irreversible actions default to operator review rather than autonomous execution. Unauthorized testing is illegal — you are responsible for your authorization.
