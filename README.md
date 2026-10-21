@@ -17,6 +17,7 @@ Two layers, meant to load together:
 | JWT / OIDC | `skills/authentication-jwt.md` | `triage/auth-jwt-triage.md` |
 | Mass assignment | `skills/mass-assignment.md` | `triage/mass-assignment-triage.md` |
 | GraphQL | `skills/graphql.md` | reuse the class triage (idor / business-logic / …) |
+| JavaScript recon | `skills/javascript-recon.md` | feeds the class skills (leads, not findings) |
 
 ## Usage
 
