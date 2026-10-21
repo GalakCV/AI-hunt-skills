@@ -12,7 +12,8 @@ Two layers, meant to load together:
 | Class | Attack skill | Triage/confirm |
 |---|---|---|
 | Business logic | `skills/business-logic.md` | `triage/business-logic-triage.md` |
-| IDOR / BOLA | `skills/idor.md` | `triage/idor-triage.md` |
+| IDOR / BOLA (object-level) | `skills/idor.md` | `triage/idor-triage.md` |
+| BFLA (function-level) | `skills/bfla.md` | reuse idor / business-logic triage |
 | Race conditions | `skills/race-conditions.md` | `triage/race-conditions-triage.md` |
 | JWT / OIDC | `skills/authentication-jwt.md` | `triage/auth-jwt-triage.md` |
 | Mass assignment | `skills/mass-assignment.md` | `triage/mass-assignment-triage.md` |
