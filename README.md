@@ -22,6 +22,9 @@ Load a skill by its **filename without `.md`** (this is the name Strix uses — 
 | JWT / OIDC | `authentication-jwt-exploitation` | `auth-jwt-triage` |
 | Mass assignment | `mass-assignment-exploitation` | `mass-assignment-triage` |
 | GraphQL | `graphql-exploitation` | reuse the class triage |
+| XSS (reflected/stored/DOM) | `xss-exploitation` | confirm via benign marker (in-skill) |
+| SSTI | `ssti-exploitation` | confirm via benign marker (in-skill) |
+| CSRF | `csrf-exploitation` | confirm on own test account (in-skill) |
 | JavaScript recon | `javascript-recon` | feeds the class skills (leads, not findings) |
 
 ## Install into Strix
