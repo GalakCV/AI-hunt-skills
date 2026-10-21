@@ -16,6 +16,7 @@ Two layers, meant to load together:
 | Race conditions | `skills/race-conditions.md` | `triage/race-conditions-triage.md` |
 | JWT / OIDC | `skills/authentication-jwt.md` | `triage/auth-jwt-triage.md` |
 | Mass assignment | `skills/mass-assignment.md` | `triage/mass-assignment-triage.md` |
+| GraphQL | `skills/graphql.md` | reuse the class triage (idor / business-logic / …) |
 
 ## Usage
 
